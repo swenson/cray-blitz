@@ -1,0 +1,14 @@
+#!/bin/csh
+make bookp
+make books
+rm book
+./bookp <<EOF
+book
+book.source
+3000
+EOF
+books <<EOF
+book
+EOF
+cp book bookw
+cp book bookb
