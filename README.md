@@ -13,16 +13,18 @@ possibly a SPARC machine.
 
 The authors are listed in the source code as:
 
-> Robert M Hyatt
-> University of Alabama at Birmingham
-> Department of Computer and Information Sciences
->
-> Albert E Gower
-> University of Southern Mississippi
-> Department of Music
->
-> Harry L Nelson
-> Lawrence Livermore National Laboratory
+```
+Robert M Hyatt
+University of Alabama at Birmingham
+Department of Computer and Information Sciences
+
+Albert E Gower
+University of Southern Mississippi
+Department of Music
+
+Harry L Nelson
+Lawrence Livermore National Laboratory
+```
 
 There are some further acknowledgements:
 
